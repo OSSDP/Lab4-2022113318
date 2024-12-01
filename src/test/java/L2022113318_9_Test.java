@@ -31,7 +31,7 @@ public class L2022113318_9_Test {
      */
     @Test
     public void testBasicFunctionality() {
-        assertTrue(solution.possibleBipartition(4, new int[][]{{1, 2}, {1, 3}, {2, 4}})); // true
+        assertFalse(solution.possibleBipartition(4, new int[][]{{1, 2}, {1, 3}, {2, 4}})); // true          //修改了!作为实验4的错误示例
         assertFalse(solution.possibleBipartition(3, new int[][]{{1, 2}, {1, 3}, {2, 3}})); // false
         assertFalse(solution.possibleBipartition(5, new int[][]{{1, 2}, {2, 3}, {3, 4}, {4, 5}, {1, 5}})); // false
     }
