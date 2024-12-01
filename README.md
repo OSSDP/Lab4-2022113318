@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/T75S58J-)
+老师好！master分支是存放实验提交结果的分支，实验报告位于master下的doc文件夹中。test分支是实验过程中用于测试创建的。main分支未使用。
